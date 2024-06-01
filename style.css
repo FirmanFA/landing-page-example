@@ -51,7 +51,7 @@ CSS STRUCTURE:
 /* Fonts */
 :root {
   --body-font: "Poppins", sans-serif;
-  --heading-font: "Cinzel", sans-serif;
+  --heading-font: "Playfair Display", sans-serif;
 }
 
 /*----------------------------------------------*/
